@@ -1,0 +1,1 @@
+{"name":"Local: text_reverse","url":"d:\\noip\\text_reverse.cpp","tests":[{"id":1672885138842,"input":"3\nolleh !dlrow\nm'I morf .udh\nI ekil .mca","output":"hello world!\nI'm from hdu.\nI like acm."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\noip\\text_reverse.cpp","group":"local","local":true}

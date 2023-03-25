@@ -1,0 +1,1 @@
+{"name":"Local: mix","url":"c:\\Users\\32641\\Desktop\\noip3\\mix.cpp","tests":[{"id":1671842640094,"input":"10  3\n2  1  0\n3  3  1\n4  5  4","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\mix.cpp","group":"local","local":true}

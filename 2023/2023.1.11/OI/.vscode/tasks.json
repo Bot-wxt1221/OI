@@ -1,0 +1,31 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe 生成活动文件",
+			"command": "C:\\Program Files\\mingw32\\bin\\g++.exe",
+			"args": [
+				"-std=c++14",
+				"-m32",
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"-DONLINE_JUDGE",
+				"-Wall"
+			],
+			"options": {
+				"cwd": "C:\\Program Files\\mingw32"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "C:\\Program Files\\mingw32\\bin\\g++.exe"
+		}
+	]
+}

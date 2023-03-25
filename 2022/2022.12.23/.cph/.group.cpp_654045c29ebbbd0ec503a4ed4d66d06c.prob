@@ -1,0 +1,1 @@
+{"name":"Local: group","url":"c:\\Users\\32641\\Desktop\\noip3\\group.cpp","tests":[{"id":1671844632778,"input":"10 6 3 2 1 1 3 3 1 4 8 2 6 9 2 2 8 3 3 9 3","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\group.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: mini","url":"d:\\OI\\FUCK_CCF\\mini.cpp","tests":[{"id":1679659743906,"input":"2\n3 \n1 3 -5 \n-2 4 1\n5\n1 2 3 4 5\n1 0 1 0 1","output":"Case #1: -25\nCase #2: 6"},{"id":1679661670144,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\FUCK_CCF\\mini.cpp","group":"local","local":true}

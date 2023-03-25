@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"c:\\Users\\32641\\Desktop\\noip3\\knapsack.cpp","tests":[{"id":1671842032322,"input":"10 4 2 1 3 3 4 5 7 9","output":"max=12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\knapsack.cpp","group":"local","local":true}

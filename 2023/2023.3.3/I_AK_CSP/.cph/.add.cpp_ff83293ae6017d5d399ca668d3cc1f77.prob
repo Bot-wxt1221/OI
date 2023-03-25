@@ -1,0 +1,1 @@
+{"name":"Local: add","url":"d:\\OI\\I_AK_CSP\\add.cpp","tests":[{"id":1677899717575,"input":"2\n123456\n1\n123456\n4\n12345","output":"102\n579\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\add.cpp","group":"local","local":true}

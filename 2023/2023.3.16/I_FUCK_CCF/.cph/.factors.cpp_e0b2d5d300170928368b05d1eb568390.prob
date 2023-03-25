@@ -1,0 +1,1 @@
+{"name":"Local: factors","url":"d:\\OI\\I_FUCK_CCF\\factors.cpp","tests":[{"id":1679017863940,"input":"2 3","output":"4"},{"id":1679017871337,"input":"8 2","output":"7"},{"id":1679018062405,"input":"2147483642 2147483647","output":"7203"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_FUCK_CCF\\factors.cpp","group":"local","local":true}

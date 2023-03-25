@@ -1,0 +1,1 @@
+{"name":"Local: partition","url":"d:\\OI\\noip\\partition.cpp","tests":[{"id":1673405841811,"input":"12\n13 19 9 5 12 8 7 4 21 2 6 11","output":"9 5 8 7 4 2 6 [11] 21 13 19 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\noip\\partition.cpp","group":"local","local":true}

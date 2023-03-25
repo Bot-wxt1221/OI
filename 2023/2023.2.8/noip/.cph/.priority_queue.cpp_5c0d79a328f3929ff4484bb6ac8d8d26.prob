@@ -1,0 +1,1 @@
+{"name":"Local: priority_queue","url":"d:\\OI\\noip\\priority_queue.cpp","tests":[{"id":1675822452235,"input":"insert 8\ninsert 2\nextract\ninsert 10\nextract\ninsert 11\nextract\nextract\nend","output":"8\n10\n11\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\noip\\priority_queue.cpp","group":"local","local":true}

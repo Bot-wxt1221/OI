@@ -1,0 +1,34 @@
+优先队列 priority_queue
+
+http://iqtest.dk/main.swf
+
+floor注意要强转
+
+深搜1赛在2021.12.10
+
+godbolt.org
+
+二分见2022.1.24及2022.1.15
+
+贪心见2022.3.4~2022.4.2
+
+pair <,,> s;
+s.first
+s.second
+
+
+stack 2022.4.8
+
+queue 2022.5.7
+
+线性表 2022.5.27
+
+树形结构可以裂解为若干线性结构
+
+
+https://www.cnblogs.com/flashhu/p/9480669.html
+
+
+https://wwz.lanzouy.com/iFDLe0do7nzi
+
+https://vjudge.csgrandeur.cn/

@@ -1,0 +1,1 @@
+{"name":"Local: gas","url":"c:\\Users\\32641\\Desktop\\noip3\\gas.cpp","tests":[{"id":1671843816268,"input":"5 60 5 3 36 120 10 25 129 5 50 250 1 45 130 4 20 119","output":"249"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\gas.cpp","group":"local","local":true}

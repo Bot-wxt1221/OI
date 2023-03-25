@@ -1,0 +1,1 @@
+{"name":"Local: calculatorconundrum","url":"d:\\OI\\I_FUCK_CCF\\calculatorconundrum.cpp","tests":[{"id":1678965824498,"input":"2\n1 6\n2 99","output":"9\n99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_FUCK_CCF\\calculatorconundrum.cpp","group":"local","local":true}

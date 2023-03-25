@@ -1,0 +1,1 @@
+{"name":"Local: busses","url":"c:\\Users\\32641\\Desktop\\noip3\\busses.cpp","tests":[{"id":1671847160931,"input":"12 21 31 40 49 58 69 79 90 101 10","output":"101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\busses.cpp","group":"local","local":true}

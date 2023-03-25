@@ -1,0 +1,102 @@
+#include <iostream>
+#include <cstdio>
+#include <queue>
+inline int read();
+
+int heap[1000005];
+char temp[105];
+int now;
+std::priority_queue<int>a;
+inline int up(int n){
+    while(n>1){
+        if(heap[n]>heap[(n>>1)]){
+            std::swap(heap[n],heap[(n>>1)]);
+            n=(n>>1);
+        }else{
+            return n;
+        }
+    }
+    return n;
+}
+inline int down(int n){
+    while((n<<1)<=now){
+        if(((n<<1)|1)>now||heap[n<<1]>=heap[((n<<1)|1)]){
+            if(heap[n]<heap[n<<1]&&(n<<1)<=now){
+                std::swap(heap[n],heap[n<<1]);
+                n=(n<<1);
+            }else{
+                return n;
+            }
+        }else{
+            if(heap[n]<heap[((n<<1)|1)]&&((n<<1)|1)<=now){
+                std::swap(heap[n],heap[((n<<1)|1)]);
+                n=((n<<1)|1);
+            }else{
+                return n;
+            }
+        }
+    }
+    return n;
+}
+inline void build(int n){
+	now=n;
+    for(int i=(n>>1);i>=1;i--){
+        down(i);
+    }
+    return ;
+}
+inline void insert(int a){
+    ::a.push(a);
+}
+inline void Delete(){
+    ::a.pop();
+}
+void change(int i,int now){
+    heap[i]=now;
+    up(down(i));
+    return ;
+}
+int main(){
+	#ifdef ONLINE_JUDGE
+	#else
+	freopen("priority_queue.in","r",stdin);
+	freopen("priority_queue.out","w",stdout);
+	#endif
+    while(scanf("%s",temp)!=EOF&&(temp[0]!='e'||temp[1]!='n')){
+        if(temp[0]=='i'){
+            insert(read());
+        }else{
+            printf("%d\n",a.top());
+            Delete();
+        }
+    }
+	return 0;
+}
+inline int read(){
+	int x=0,f=1;char c=getchar();
+	while(c<'0'||c>'9'){
+		c=='-'?f=-1:1;
+		c=getchar();
+	}
+	while(c>='0'&&c<='9'){
+		x=(x<<3)+(x<<1)+(c^48);
+		c=getchar();
+	}
+	return f*x;
+}
+/*
+Anything about this program:
+Type:
+
+Description:
+
+Example:
+	1:
+		In:
+
+		Out:
+More:
+    大根堆
+*/
+
+

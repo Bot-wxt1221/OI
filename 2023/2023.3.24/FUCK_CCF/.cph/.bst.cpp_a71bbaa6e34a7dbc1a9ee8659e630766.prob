@@ -1,0 +1,1 @@
+{"name":"Local: bst","url":"d:\\OI\\FUCK_CCF\\bst.cpp","tests":[{"id":1679703669554,"input":"8 \n3    5    1    6    8    7    2    4","output":"0 1 2 4 7 11 13 15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\FUCK_CCF\\bst.cpp","group":"local","local":true}

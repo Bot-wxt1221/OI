@@ -1,0 +1,1 @@
+{"name":"Local: number","url":"d:\\OI\\noip\\number.cpp","tests":[{"id":1675826466075,"input":"8 3\nI 1\nI 2\nI 3\nQ\nI 5\nQ\nI 4\nQ","output":"1\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\noip\\number.cpp","group":"local","local":true}

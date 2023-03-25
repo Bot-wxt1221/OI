@@ -1,0 +1,1 @@
+{"name":"Local: money","url":"c:\\Users\\32641\\Desktop\\noip3\\money.cpp","tests":[{"id":1671845414969,"input":"3 10 1 2 5","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\money.cpp","group":"local","local":true}

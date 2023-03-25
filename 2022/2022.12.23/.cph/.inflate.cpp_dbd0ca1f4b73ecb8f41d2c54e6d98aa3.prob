@@ -1,0 +1,1 @@
+{"name":"Local: inflate","url":"c:\\Users\\32641\\Desktop\\noip3\\inflate.cpp","tests":[{"id":1671846832753,"input":"300 4 100 60 250 120 120 100 35 20","output":"605"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\inflate.cpp","group":"local","local":true}

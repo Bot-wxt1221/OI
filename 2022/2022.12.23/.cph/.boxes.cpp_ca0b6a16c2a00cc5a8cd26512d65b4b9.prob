@@ -1,0 +1,1 @@
+{"name":"Local: boxes","url":"c:\\Users\\32641\\Desktop\\noip3\\boxes.cpp","tests":[{"id":1671846589546,"input":"24 6 8 3 12 7 9 7","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\boxes.cpp","group":"local","local":true}

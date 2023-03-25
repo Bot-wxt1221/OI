@@ -1,0 +1,1 @@
+{"name":"Local: factor_sum","url":"d:\\OI\\I_FUCK_CCF\\factor_sum.cpp","tests":[{"id":1679020671275,"input":"2 3","output":"15"},{"id":1679020681490,"input":"8 2","output":"127"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_FUCK_CCF\\factor_sum.cpp","group":"local","local":true}

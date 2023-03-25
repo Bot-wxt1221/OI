@@ -1,0 +1,1 @@
+{"name":"Local: decode","url":"d:\\noip\\decode.cpp","tests":[{"id":1672916419645,"input":"631758924","output":"615947283"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\noip\\decode.cpp","group":"local","local":true}

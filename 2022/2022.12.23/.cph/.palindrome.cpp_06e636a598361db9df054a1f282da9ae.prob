@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"c:\\Users\\32641\\Desktop\\noip3\\palindrome.cpp","tests":[{"id":1671865335617,"input":"5\nAb3bd","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\32641\\Desktop\\noip3\\palindrome.cpp","group":"local","local":true}

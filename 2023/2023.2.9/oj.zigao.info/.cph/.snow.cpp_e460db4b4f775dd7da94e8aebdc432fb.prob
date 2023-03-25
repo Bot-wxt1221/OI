@@ -1,0 +1,1 @@
+{"name":"Local: snow","url":"d:\\OI\\oj.zigao.info\\snow.cpp","tests":[{"id":1675909303708,"input":"0 0\n0 0 10000 10000\n5000 -10000 5000 10000\n5000 10000 10000 10000","output":"3:55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\oj.zigao.info\\snow.cpp","group":"local","local":true}

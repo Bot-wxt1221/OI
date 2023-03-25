@@ -1,0 +1,19 @@
+大小写敏感
+中英文敏感
+扩展名：cpp
+
+顺序结构：
+按照主函数先后顺序
+
+位运算
+
+计数：加法原理   乘法原理
+
+cmath
+cena禁用：double pow(double a,double b):a的b次方
+double sqrt(int x):根号下x
+abs(int x):x的绝对值
+
+algorithm
+int __gcd(int a,int b):求二数的最大公因数
+

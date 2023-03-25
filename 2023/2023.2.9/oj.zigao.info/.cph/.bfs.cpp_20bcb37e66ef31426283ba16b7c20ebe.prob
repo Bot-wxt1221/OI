@@ -1,0 +1,1 @@
+{"name":"Local: bfs","url":"d:\\OI\\oj.zigao.info\\bfs.cpp","tests":[{"id":1675930525261,"input":"4\n1 2 2 4\n2 1 4\n3 0\n4 1 3","output":"1 0\n2 1\n3 2\n4 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\oj.zigao.info\\bfs.cpp","group":"local","local":true}

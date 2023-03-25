@@ -1,0 +1,1 @@
+{"name":"Local: factorial","url":"d:\\OI\\I_FUCK_CCF\\factorial.cpp","tests":[{"id":1679022618889,"input":"5","output":"2 3\n3 1\n5 1"},{"id":1679022963256,"input":"10","output":"2 8\n3 4\n5 2\n7 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_FUCK_CCF\\factorial.cpp","group":"local","local":true}
