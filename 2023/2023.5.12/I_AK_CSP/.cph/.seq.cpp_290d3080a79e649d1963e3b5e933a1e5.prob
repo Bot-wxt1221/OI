@@ -1,0 +1,1 @@
+{"name":"Local: seq","url":"d:\\OI\\I_AK_CSP\\seq.cpp","tests":[{"id":1683890371112,"input":"5 \n-2 3 1 -5 2 \n-5 -4 145 \n-1 -6 -509 \n-9 -14 40 \n-3 -13 21 \n-3 -3 -3","output":"5\n4\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\seq.cpp","group":"local","local":true}

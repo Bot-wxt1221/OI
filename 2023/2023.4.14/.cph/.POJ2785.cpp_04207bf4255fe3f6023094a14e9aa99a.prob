@@ -1,0 +1,1 @@
+{"name":"Local: POJ2785","url":"d:\\OI\\POJ2785.cpp","tests":[{"id":1681470071801,"input":"6\n-45 22 42 -16\n-41 -27 56 30\n-36 53 -37 77\n-36 30 -75 -46\n26 -38 -10 62\n-32 -54 -6 45","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\POJ2785.cpp","group":"local","local":true}

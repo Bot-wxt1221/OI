@@ -1,0 +1,1 @@
+{"name":"Local: UVA10795","url":"d:\\OI\\UVA10795.cpp","tests":[{"id":1685107784705,"input":"3\n1 1 1\n2 2 2\n3\n1 2 3\n3 2 1\n4\n1 1 1 1\n1 1 1 1\n0","output":"Case 1: 7\nCase 2: 3\nCase 3: 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\UVA10795.cpp","group":"local","local":true}

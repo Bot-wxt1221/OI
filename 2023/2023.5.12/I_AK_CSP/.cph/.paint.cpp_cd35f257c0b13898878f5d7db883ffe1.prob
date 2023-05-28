@@ -1,0 +1,1 @@
+{"name":"Local: paint","url":"d:\\OI\\I_AK_CSP\\paint.cpp","tests":[{"id":1683893021194,"input":"6 2\nA 2\nB 6","output":"4"},{"id":1683893090931,"input":"1900 8\nA 2\nB 8\nC 10\nD 6\nD 5\nE 12\nC 13\nD 34","output":"504"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\paint.cpp","group":"local","local":true}

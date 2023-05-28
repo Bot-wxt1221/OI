@@ -1,0 +1,1 @@
+{"name":"Local: teacher","url":"d:\\OI\\I_AK_CSP\\teacher.cpp","tests":[{"id":1684541676947,"input":"5\n11 4 5 7 2","output":"7 5 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\teacher.cpp","group":"local","local":true}
