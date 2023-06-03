@@ -1,0 +1,1 @@
+{"name":"Local: UVA11520","url":"d:\\OI\\UVA11520.cpp","tests":[{"id":1685707964247,"input":"2\n3\n...\n...\n...\n3\n...\nA..\n...","output":"Case 1:\nABA\nBAB\nABA\nCase 2:\nBAB\nABA\nBAB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\UVA11520.cpp","group":"local","local":true}

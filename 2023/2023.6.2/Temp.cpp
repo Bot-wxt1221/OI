@@ -9,7 +9,6 @@ int main(){
 	freopen(".out","w",stdout);
 	#endif
     
-    
 	return 0;
 }
 inline int read(){
