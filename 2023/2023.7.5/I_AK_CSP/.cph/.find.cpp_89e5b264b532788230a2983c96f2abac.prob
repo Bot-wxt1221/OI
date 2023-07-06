@@ -1,0 +1,1 @@
+{"name":"Local: find","url":"d:\\OI\\I_AK_CSP\\find.cpp","tests":[{"id":1688545389660,"input":"3\n1 5 3","output":"4 1\n2 1"},{"id":1688546167243,"input":"4\n-1000000000 0 -999999999 1000000000 \n","output":"1000000000 1\n1 1\n1000000000 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\find.cpp","group":"local","local":true}

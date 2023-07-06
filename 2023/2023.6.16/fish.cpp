@@ -2,9 +2,10 @@
 #include <cstdio>
 #include <algorithm>
 #include <stack>
+#define int long long
 inline int read();
 int fir[200005];
-int nxt[200005];
+int nxt[400005];
 int v[400005];
 int w[400005];
 int p[200005];
@@ -42,7 +43,7 @@ back add(int x,int y){
 	return t;
 }
 int que(int x){
-	int _min=0x3f3f3f3f;
+	int _min=0x3f3f3f3f3f3f3f3f;
 	while(x>0){
 		_min=std::min(_min,tree[x]);
 		x-=lowbit(x);
@@ -80,16 +81,17 @@ void dfs(int now,int fa,int dep){
 	}
 	return ;
 }
-int main(){
+signed main(){
 	#ifdef ONLINE_JUDGE
 	#else
 	freopen(".in","r",stdin);
 	freopen(".out","w",stdout);
 	#endif
-    n=read();
+	// freopen(".out","w",stdout);
+	n=read();
 	for(int i=1;i<=n;i++){
 		fir[i]=-1;
-		tree[i]=0x3f3f3f3f;
+		tree[i]=0x3f3f3f3f3f3f3f3f;
 	}
     for(int i=2;i<=n;i++){
 		p[i]=read();
@@ -106,7 +108,10 @@ int main(){
 	}
 	dfs(1,1,1);
 	for(int i=1;i<=n;i++){
-		printf("%d ",dp[i]-q[i]);
+		if(dp[i]-q[i]==0x3f3f3f3f3f3f3f3f){
+			printf("-1 ");
+		}else
+			printf("%lld ",dp[i]-q[i]);
 	}
 	return 0;
 }

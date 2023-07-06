@@ -1,0 +1,15 @@
+print m
+print j
+lock
+n = 76
+w = 58
+z = 64
+e = 3
+h = 5
+w = 74
+unlock
+w = 25
+lock
+unlock
+lock
+unlock

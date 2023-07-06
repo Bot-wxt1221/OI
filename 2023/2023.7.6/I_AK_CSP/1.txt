@@ -1,0 +1,17 @@
+print f
+f = 69
+p = 73
+k = 85
+lock
+y = 24
+h = 3
+g = 50
+q = 3
+print x
+print m
+print m
+unlock
+print y
+lock
+t = 83
+unlock

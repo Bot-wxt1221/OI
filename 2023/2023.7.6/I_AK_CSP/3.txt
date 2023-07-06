@@ -1,0 +1,24 @@
+b = 11
+e = 10
+lock
+i = 0
+t = 87
+u = 42
+unlock
+print z
+lock
+print v
+print n
+print j
+print a
+print g
+unlock
+print a
+a = 67
+l = 98
+z = 16
+lock
+print z
+k = 40
+n = 50
+unlock
