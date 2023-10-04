@@ -1,0 +1,1 @@
+{"name":"Local: count","url":"d:\\OI\\I_AK_CSP\\count.cpp","tests":[{"id":1696328270552,"input":"10 7 \nA 1 \nB 1 1 \nB 3 1 \nB 4 1 \nA 2 \nA 3 \nA 10","output":"0\n1\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\count.cpp","group":"local","local":true}

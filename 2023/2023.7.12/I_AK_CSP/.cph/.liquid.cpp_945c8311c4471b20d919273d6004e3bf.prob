@@ -1,0 +1,1 @@
+{"name":"Local: liquid","url":"d:\\OI\\I_AK_CSP\\liquid.cpp","tests":[{"id":1689163537003,"input":"4 4 B 2 A 1 A 3 B","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\liquid.cpp","group":"local","local":true}

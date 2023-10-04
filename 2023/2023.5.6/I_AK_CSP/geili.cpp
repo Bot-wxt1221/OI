@@ -40,8 +40,8 @@ void add(int uu,int vv,int ww){
 int main(){
 	#ifdef ONLINE_JUDGE
 	#else
-	freopen("geili.in","r",stdin);
-	freopen("geili.out","w",stdout);
+//	freopen("geili.in","r",stdin);
+//	freopen("geili.out","w",stdout);
 	#endif
     int p=read();
     n=read();

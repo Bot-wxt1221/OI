@@ -1,0 +1,1 @@
+{"name":"Local: game","url":"d:\\OI\\game.cpp","tests":[{"id":1688690993072,"input":"2 2","output":"12"},{"id":1688692304852,"input":"3 3","output":"112"},{"id":1688692307956,"input":"5 5","output":"7136"},{"id":1688692791501,"input":"2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\game.cpp","group":"local","local":true}

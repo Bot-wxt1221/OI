@@ -1,0 +1,62 @@
+%!TEX program = xelatex
+\documentclass[UTF8]{ctexbeamer}
+\usetheme{Singapore}
+\usecolortheme{seahorse}
+
+\author{wxt1221}
+\date {2023.10.3}
+\title{线段树}
+\begin{document}
+	\frame{\titlepage}
+	\begin{frame}
+		\frametitle{Table of Contents - 目录}
+		\tableofcontents
+	\end{frame}
+	
+	\section{引入}
+
+	\begin{frame}
+		
+		\frametitle{引入}
+		你需要在时间复杂度为 $\mathcal{O}(log_n)$ 的时间复杂度下处理序列上以下操作：
+		\begin{itemize}
+			\item 对于所有的 $i \in [l,r]$ ，使 $a_i \to a_i+t$ ；
+
+			\item 查询 $\sum \limits _{i=l} ^{r} a_i$。
+
+		\end{itemize}
+
+		对于序列上的操作，想要做到 $\mathcal O(log_n)$ 的时间复杂度。可以考虑分治，把整个区间分成两个部分，然后继续向下分，可以获得一个二叉树的结构。
+	\end{frame}
+
+	\section{分析}
+	\begin{frame}
+		\frametitle{查询}
+		很明显，树高为 $\mathcal O(log_n)$ ，查询时间复杂度放在后面来说，并且可以发现，可以维护的操作不止区间和。
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{修改}
+		修改的时间复杂度爆炸，但是如果使用一些 trick 就可以巧妙避免。在树上进行处理具有递归性质，访问节点 $i(i \not= 1)$ ，一定会访问 $\frac i 2$ ，也就是父亲节点，所以如果处理到某个节点需要对整个区间进行处理，就可以不用向下处理，而是查询到这个节点的时候再处理 ，时间复杂度同查询。
+	\end{frame}
+
+	\section{时间复杂度}
+	\begin{frame}
+		\frametitle{时间复杂度}
+		从下到上以开区间来算，左右端点同时挪向父亲节点，整个区间大小最多会变小 $2$ ，一直向上挪到父亲节点所有的都统计到了，时间复杂度就是树高即 $\mathcal O(log_n)$ ，这也正是 zkw 线段树的实现方式。
+	\end{frame}
+
+	\section{推荐题目}
+	\begin{frame}
+		\frametitle{推荐题目}
+			\begin{itemize} 
+				\item \href{https://www.luogu.com.cn/problem/P3372}{\textcolor{blue}{P3372}}
+
+				\item \href{https://www.luogu.com.cn/problem/P3373}{\textcolor{blue}{P3373}}
+
+				\item \href{https://www.luogu.com.cn/problem/AT_abc322_f}{\textcolor{blue}{abc322f}}
+
+				\item \href{https://www.luogu.com.cn/problem/P8818}{\textcolor{blue}{P8818}}
+			\end{itemize}
+	\end{frame}
+\end{document}

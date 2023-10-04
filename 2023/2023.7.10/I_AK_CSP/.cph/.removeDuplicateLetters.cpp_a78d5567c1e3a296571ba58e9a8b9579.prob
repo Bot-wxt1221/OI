@@ -1,0 +1,1 @@
+{"name":"Local: removeDuplicateLetters","url":"d:\\OI\\I_AK_CSP\\removeDuplicateLetters.cpp","tests":[{"id":1688957875140,"input":"bcabc","output":"abc"},{"id":1688957879599,"input":"cbacdcbc","output":"acdb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\removeDuplicateLetters.cpp","group":"local","local":true}

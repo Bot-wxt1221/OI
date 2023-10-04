@@ -1,0 +1,1 @@
+{"name":"Local: exchange","url":"d:\\OI\\I_AK_CSP\\exchange.cpp","tests":[{"id":1689122710150,"input":"3 2\n2 3 1","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\exchange.cpp","group":"local","local":true}

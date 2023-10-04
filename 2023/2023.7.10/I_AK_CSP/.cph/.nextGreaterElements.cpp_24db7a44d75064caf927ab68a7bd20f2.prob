@@ -1,0 +1,1 @@
+{"name":"Local: nextGreaterElements","url":"d:\\OI\\I_AK_CSP\\nextGreaterElements.cpp","tests":[{"id":1688952205156,"input":"1 2 1","output":"2 -1 2"},{"id":1688952277259,"input":"1 2 3 4 3","output":"2 3 4 -1 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\nextGreaterElements.cpp","group":"local","local":true}

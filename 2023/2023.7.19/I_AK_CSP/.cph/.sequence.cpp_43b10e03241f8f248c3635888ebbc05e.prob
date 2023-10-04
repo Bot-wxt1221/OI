@@ -1,0 +1,1 @@
+{"name":"Local: sequence","url":"d:\\OI\\I_AK_CSP\\sequence.cpp","tests":[{"id":1689751484572,"input":"3\n1 1 1","output":"1"},{"id":1689751515869,"input":"3\n2 1 1","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\sequence.cpp","group":"local","local":true}

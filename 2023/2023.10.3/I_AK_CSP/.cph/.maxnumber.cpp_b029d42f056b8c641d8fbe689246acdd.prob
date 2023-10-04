@@ -1,0 +1,1 @@
+{"name":"Local: maxnumber","url":"d:\\OI\\I_AK_CSP\\maxnumber.cpp","tests":[{"id":1696333767937,"input":"10 100 \nA 97 \nQ 1 \nQ 1 \nA 17 \nQ 2 \nA 63 \nQ 1 \nQ 1 \nQ 3 \nA 99","output":"97\n97\n97\n60\n60\n97"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP\\maxnumber.cpp","group":"local","local":true}
