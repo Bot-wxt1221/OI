@@ -1,0 +1,1 @@
+{"name":"Local: lcmcardinality","url":"d:\\OI\\lcmcardinality.cpp","tests":[{"id":1700297857301,"input":"2\n12\n24\n101101291\n0","output":"2 2\n12 8\n24 11\n101101291 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\lcmcardinality.cpp","group":"local","local":true}

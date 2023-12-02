@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"c:\\OI-vscode\\string.cpp","tests":[{"id":1701497590597,"input":"7 2","output":"16\n1 0 0 0 1 0 0"},{"id":1701497823846,"input":"7 1","output":"16\n0 0 0 1 0 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\OI-vscode\\string.cpp","group":"local","local":true}
