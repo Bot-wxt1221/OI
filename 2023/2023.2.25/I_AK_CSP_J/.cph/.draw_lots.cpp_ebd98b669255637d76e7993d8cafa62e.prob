@@ -1,0 +1,1 @@
+{"name":"Local: draw_lots","url":"d:\\OI\\I_AK_CSP_J\\draw_lots.cpp","tests":[{"id":1677237938780,"input":"2\n5 10\n1 1 1 1 1\n6 6\n1 2 3 1 1 1","output":"No\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP_J\\draw_lots.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: minID","url":"d:\\OI\\I_AK_CSP_J\\minID.cpp","tests":[{"id":1677242504673,"input":"15\n18 4 8 9 16 1 14 7 19 3 0 5 2 11 6","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OI\\I_AK_CSP_J\\minID.cpp","group":"local","local":true}
